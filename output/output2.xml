@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emLessSal>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-12-18">Patricio</firstname>
+		<lastname tend="9999-12-31" tstart="1992-12-18">Bridgland</lastname>
+		<deptno tend="9999-12-31" tstart="1992-12-18">d005</deptno>
+		<salary tend="1995-12-18" tstart="1994-12-18">42318</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-05-21">Mingsen</firstname>
+		<lastname tend="9999-12-31" tstart="1994-05-21">Casley</lastname>
+		<deptno tend="9999-12-31" tstart="1994-05-21">d004</deptno>
+		<salary tend="1995-05-21" tstart="1994-05-21">40919</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-06-20">Lucien</firstname>
+		<lastname tend="9999-12-31" tstart="1992-06-20">Rosenbaum</lastname>
+		<deptno tend="9999-12-31" tstart="1992-06-20">d008</deptno>
+		<salary tend="1995-06-20" tstart="1994-06-20">43485</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-05-04">Basil</firstname>
+		<lastname tend="9999-12-31" tstart="1992-05-04">Tramer</lastname>
+		<deptno tend="9999-12-31" tstart="1992-05-04">d009</deptno>
+		<salary tend="1995-05-04" tstart="1994-05-04">40484</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-12-23">Mona</firstname>
+		<lastname tend="9999-12-31" tstart="1994-12-23">Azuma</lastname>
+		<deptno tend="9999-12-31" tstart="1994-12-23">d003</deptno>
+		<salary tend="1995-12-23" tstart="1994-12-23">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-04-09">Kenroku</firstname>
+		<lastname tend="9999-12-31" tstart="1994-04-09">Malabarba</lastname>
+		<deptno tend="9999-12-31" tstart="1994-04-09">d004</deptno>
+		<salary tend="1995-04-09" tstart="1994-04-09">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-11-18">Amabile</firstname>
+		<lastname tend="9999-12-31" tstart="1992-11-18">Gomatam</lastname>
+		<deptno tend="9999-12-31" tstart="1992-11-18">d005</deptno>
+		<salary tend="1995-11-18" tstart="1994-11-18">43812</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1993-06-16">Mariusz</firstname>
+		<lastname tend="9999-12-31" tstart="1993-06-16">Prampolini</lastname>
+		<deptno tend="9999-12-31" tstart="1993-06-16">d004</deptno>
+		<salary tend="1995-06-16" tstart="1994-06-16">42756</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-02-02">Zhonghui</firstname>
+		<lastname tend="9999-12-31" tstart="1992-02-02">Zyda</lastname>
+		<deptno tend="9999-12-31" tstart="1992-02-02">d005</deptno>
+		<salary tend="1995-02-01" tstart="1994-02-01">43697</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1993-10-28">Tzvetan</firstname>
+		<lastname tend="9999-12-31" tstart="1993-10-28">Hettesheimer</lastname>
+		<deptno tend="9999-12-31" tstart="1993-10-28">d005</deptno>
+		<salary tend="1995-10-28" tstart="1994-10-28">41712</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-02-02">Karsten</firstname>
+		<lastname tend="9999-12-31" tstart="1992-02-02">Szmurlo</lastname>
+		<deptno tend="9999-12-31" tstart="1992-02-02">d003</deptno>
+		<salary tend="1995-02-01" tstart="1994-02-01">43868</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-06-28">Kasidit</firstname>
+		<lastname tend="9999-12-31" tstart="1994-06-28">Krzyzanowski</lastname>
+		<deptno tend="9999-12-31" tstart="1994-06-28">d005</deptno>
+		<salary tend="1995-06-28" tstart="1994-06-28">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1993-08-23">Mabhin</firstname>
+		<lastname tend="9999-12-31" tstart="1993-08-23">Leijenhorst</lastname>
+		<deptno tend="9999-12-31" tstart="1993-08-23">d004</deptno>
+		<salary tend="1995-08-23" tstart="1994-08-23">41982</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-10-06">Jackson</firstname>
+		<lastname tend="9999-12-31" tstart="1994-10-06">Kakkad</lastname>
+		<deptno tend="9999-12-31" tstart="1994-10-06">d009</deptno>
+		<salary tend="1995-10-06" tstart="1994-10-06">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1993-03-31">Genta</firstname>
+		<lastname tend="9999-12-31" tstart="1993-03-31">Kolvik</lastname>
+		<deptno tend="1994-10-23" tstart="1993-03-31">d009</deptno>
+		<deptno tend="9999-12-31" tstart="1994-10-23">d005</deptno>
+		<salary tend="1995-03-31" tstart="1994-03-31">42829</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-04-29">Lein</firstname>
+		<lastname tend="9999-12-31" tstart="1994-04-29">Vendrig</lastname>
+		<deptno tend="9999-12-31" tstart="1994-04-29">d003</deptno>
+		<salary tend="1995-04-29" tstart="1994-04-29">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="1995-02-20" tstart="1994-04-21">Ramalingam</firstname>
+		<lastname tend="1995-02-20" tstart="1994-04-21">Gente</lastname>
+		<deptno tend="1995-02-20" tstart="1994-04-21">d008</deptno>
+		<salary tend="1995-02-20" tstart="1994-04-21">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="1999-01-24" tstart="1994-12-24">Saddek</firstname>
+		<lastname tend="1999-01-24" tstart="1994-12-24">Gopalakrishnan</lastname>
+		<deptno tend="1999-01-24" tstart="1994-12-24">d009</deptno>
+		<salary tend="1995-12-24" tstart="1994-12-24">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="2002-01-31" tstart="1993-03-12">Shay</firstname>
+		<lastname tend="2002-01-31" tstart="1993-03-12">Poulakidas</lastname>
+		<deptno tend="2002-01-31" tstart="1993-03-12">d005</deptno>
+		<salary tend="1995-03-12" tstart="1994-03-12">43428</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-04-04">Hausi</firstname>
+		<lastname tend="9999-12-31" tstart="1994-04-04">Sidhu</lastname>
+		<deptno tend="9999-12-31" tstart="1994-04-04">d006</deptno>
+		<salary tend="1995-04-04" tstart="1994-04-04">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-04-18">Clyde</firstname>
+		<lastname tend="9999-12-31" tstart="1992-04-18">Fandrianto</lastname>
+		<deptno tend="9999-12-31" tstart="1992-04-18">d007</deptno>
+		<salary tend="1995-04-18" tstart="1994-04-18">42419</salary>
+	</employee>
+	<employee>
+		<firstname tend="1998-01-23" tstart="1992-12-20">Khatoun</firstname>
+		<lastname tend="1998-01-23" tstart="1992-12-20">Imataki</lastname>
+		<deptno tend="1998-01-23" tstart="1992-12-20">d004</deptno>
+		<salary tend="1995-12-20" tstart="1994-12-20">40771</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1993-05-21">Irena</firstname>
+		<lastname tend="9999-12-31" tstart="1993-05-21">Reutenauer</lastname>
+		<deptno tend="9999-12-31" tstart="1993-05-21">d004</deptno>
+		<salary tend="1995-05-21" tstart="1994-05-21">43242</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1992-06-09">Maik</firstname>
+		<lastname tend="9999-12-31" tstart="1992-06-09">Ushiama</lastname>
+		<deptno tend="1993-02-10" tstart="1992-06-09">d009</deptno>
+		<deptno tend="9999-12-31" tstart="1993-02-10">d005</deptno>
+		<salary tend="1995-06-09" tstart="1994-06-09">43444</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1993-07-24">Duro</firstname>
+		<lastname tend="9999-12-31" tstart="1993-07-24">Coney</lastname>
+		<deptno tend="9999-12-31" tstart="1993-07-24">d004</deptno>
+		<salary tend="1995-07-24" tstart="1994-07-24">40616</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-07-09">Mihalis</firstname>
+		<lastname tend="9999-12-31" tstart="1994-07-09">Heering</lastname>
+		<deptno tend="1996-11-18" tstart="1994-07-09">d005</deptno>
+		<deptno tend="9999-12-31" tstart="1996-11-18">d008</deptno>
+		<salary tend="1995-07-09" tstart="1994-07-09">40000</salary>
+	</employee>
+	<employee>
+		<firstname tend="9999-12-31" tstart="1994-03-09">Valter</firstname>
+		<lastname tend="9999-12-31" tstart="1994-03-09">Cappelletti</lastname>
+		<deptno tend="9999-12-31" tstart="1994-03-09">d004</deptno>
+		<salary tend="1995-03-09" tstart="1994-03-09">40000</salary>
+	</employee>
+</emLessSal>

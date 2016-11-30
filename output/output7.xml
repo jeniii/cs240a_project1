@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maxSal>
+	<employee>
+		<empno tend="9999-12-31" tstart="1986-06-26">10001</empno>
+		<firstname tend="9999-12-31" tstart="1986-06-26">Joe</firstname>
+		<lastname tend="9999-12-31" tstart="1986-06-26">Doe</lastname>
+		<salary tend="9999-12-31" tstart="2002-06-22">88958</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1990-08-05">10006</empno>
+		<firstname tend="9999-12-31" tstart="1990-08-05">Anneke</firstname>
+		<lastname tend="9999-12-31" tstart="1990-08-05">Preusig</lastname>
+		<salary tend="2001-08-02" tstart="2000-08-02">60098</salary>
+	</employee>
+	<employee>
+		<empno tend="2000-07-31" tstart="1998-03-11">10008</empno>
+		<firstname tend="2000-07-31" tstart="1998-03-11">Saniya</firstname>
+		<lastname tend="2000-07-31" tstart="1998-03-11">Kalloufi</lastname>
+		<salary tend="2000-07-31" tstart="2000-03-10">52668</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-12-18">10012</empno>
+		<firstname tend="9999-12-31" tstart="1992-12-18">Patricio</firstname>
+		<lastname tend="9999-12-31" tstart="1992-12-18">Bridgland</lastname>
+		<salary tend="2001-12-16" tstart="2000-12-16">54794</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-12-29">10014</empno>
+		<firstname tend="9999-12-31" tstart="1993-12-29">Berni</firstname>
+		<lastname tend="9999-12-31" tstart="1993-12-29">Genin</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-27">60598</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1987-04-03">10018</empno>
+		<firstname tend="9999-12-31" tstart="1987-04-03">Kazuhide</firstname>
+		<lastname tend="9999-12-31" tstart="1987-04-03">Peha</lastname>
+		<salary tend="9999-12-31" tstart="2002-03-30">84672</salary>
+	</employee>
+	<employee>
+		<empno tend="2002-07-15" tstart="1988-02-10">10021</empno>
+		<firstname tend="2002-07-15" tstart="1988-02-10">Ramzi</firstname>
+		<lastname tend="2002-07-15" tstart="1988-02-10">Erde</lastname>
+		<salary tend="2002-07-15" tstart="2002-02-06">84169</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1999-09-03">10022</empno>
+		<firstname tend="9999-12-31" tstart="1999-09-03">Shahaf</firstname>
+		<lastname tend="9999-12-31" tstart="1999-09-03">Famili</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-02">41348</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1999-09-27">10023</empno>
+		<firstname tend="9999-12-31" tstart="1999-09-27">Bojan</firstname>
+		<lastname tend="9999-12-31" tstart="1999-09-27">Montemayor</lastname>
+		<salary tend="2001-09-26" tstart="2000-09-26">50319</salary>
+	</employee>
+	<employee>
+		<empno tend="1997-10-15" tstart="1987-08-17">10025</empno>
+		<firstname tend="1997-10-15" tstart="1987-08-17">Prasadram</firstname>
+		<lastname tend="1997-10-15" tstart="1987-08-17">Heyers</lastname>
+		<salary tend="1996-08-14" tstart="1995-08-15">57585</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1995-04-02">10027</empno>
+		<firstname tend="9999-12-31" tstart="1995-04-02">Divier</firstname>
+		<lastname tend="9999-12-31" tstart="1995-04-02">Reistad</lastname>
+		<salary tend="9999-12-31" tstart="2002-03-31">46145</salary>
+	</employee>
+	<employee>
+		<empno tend="1998-04-06" tstart="1991-10-22">10028</empno>
+		<firstname tend="1998-04-06" tstart="1991-10-22">Domenick</firstname>
+		<lastname tend="1998-04-06" tstart="1991-10-22">Tempesti</lastname>
+		<salary tend="1998-04-06" tstart="1997-10-20">58502</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-09-01">10031</empno>
+		<firstname tend="9999-12-31" tstart="1991-09-01">Karsten</firstname>
+		<lastname tend="9999-12-31" tstart="1991-09-01">Joslin</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-29">56689</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1990-12-05">10037</empno>
+		<firstname tend="9999-12-31" tstart="1990-12-05">Pradeep</firstname>
+		<lastname tend="9999-12-31" tstart="1990-12-05">Makrucki</lastname>
+		<salary tend="2001-12-02" tstart="2000-12-02">60992</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-02-14">10040</empno>
+		<firstname tend="9999-12-31" tstart="1993-02-14">Weiyi</firstname>
+		<lastname tend="9999-12-31" tstart="1993-02-14">Meriste</lastname>
+		<salary tend="9999-12-31" tstart="2002-02-12">72668</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1990-10-20">10043</empno>
+		<firstname tend="9999-12-31" tstart="1990-10-20">Yishay</firstname>
+		<lastname tend="9999-12-31" tstart="1990-10-20">Tzvieli</lastname>
+		<salary tend="9999-12-31" tstart="2001-10-17">77659</salary>
+	</employee>
+	<employee>
+		<empno tend="1987-01-27" tstart="1985-02-24">10048</empno>
+		<firstname tend="1987-01-27" tstart="1985-02-24">Florian</firstname>
+		<lastname tend="1987-01-27" tstart="1985-02-24">Syrotiuk</lastname>
+		<salary tend="1986-02-24" tstart="1985-02-24">40000</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1990-02-01">10056</empno>
+		<firstname tend="9999-12-31" tstart="1990-02-01">Brendon</firstname>
+		<lastname tend="9999-12-31" tstart="1990-02-01">Bernini</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-29">74722</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-01-15">10057</empno>
+		<firstname tend="9999-12-31" tstart="1992-01-15">Ebbe</firstname>
+		<lastname tend="9999-12-31" tstart="1992-01-15">Callaway</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-12">68061</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-08-30">10062</empno>
+		<firstname tend="9999-12-31" tstart="1991-08-30">Anoosh</firstname>
+		<lastname tend="9999-12-31" tstart="1991-08-30">Peyn</lastname>
+		<salary tend="2001-08-27" tstart="2000-08-27">68784</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-05-24">10065</empno>
+		<firstname tend="9999-12-31" tstart="1998-05-24">Satosi</firstname>
+		<lastname tend="9999-12-31" tstart="1998-05-24">Awdeh</lastname>
+		<salary tend="9999-12-31" tstart="2002-05-23">47437</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1986-02-26">10066</empno>
+		<firstname tend="9999-12-31" tstart="1986-02-26">Kwee</firstname>
+		<lastname tend="9999-12-31" tstart="1986-02-26">Schusler</lastname>
+		<salary tend="9999-12-31" tstart="2002-02-22">103672</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1985-10-14">10070</empno>
+		<firstname tend="9999-12-31" tstart="1985-10-14">Reuven</firstname>
+		<lastname tend="9999-12-31" tstart="1985-10-14">Garigliano</lastname>
+		<salary tend="9999-12-31" tstart="2001-10-10">96322</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1989-05-21">10072</empno>
+		<firstname tend="9999-12-31" tstart="1989-05-21">Hironoby</firstname>
+		<lastname tend="9999-12-31" tstart="1989-05-21">Sidou</lastname>
+		<salary tend="2002-05-18" tstart="2001-05-18">64726</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1990-08-13">10074</empno>
+		<firstname tend="9999-12-31" tstart="1990-08-13">Mokhtar</firstname>
+		<lastname tend="9999-12-31" tstart="1990-08-13">Bernatsky</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-10">80820</salary>
+	</employee>
+	<employee>
+		<empno tend="2001-01-15" tstart="1988-05-17">10075</empno>
+		<firstname tend="2001-01-15" tstart="1988-05-17">Gao</firstname>
+		<lastname tend="2001-01-15" tstart="1988-05-17">Dolinsky</lastname>
+		<salary tend="2001-01-15" tstart="2000-05-14">67492</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-07-15">10076</empno>
+		<firstname tend="9999-12-31" tstart="1996-07-15">Erez</firstname>
+		<lastname tend="9999-12-31" tstart="1996-07-15">Ritzmann</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-14">62921</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1994-09-29">10078</empno>
+		<firstname tend="9999-12-31" tstart="1994-09-29">Danel</firstname>
+		<lastname tend="9999-12-31" tstart="1994-09-29">Mondadori</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-27">54652</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1995-12-13">10079</empno>
+		<firstname tend="9999-12-31" tstart="1995-12-13">Kshitij</firstname>
+		<lastname tend="9999-12-31" tstart="1995-12-13">Gils</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-11">67231</salary>
+	</employee>
+	<employee>
+		<empno tend="1999-05-07" tstart="1986-03-14">10090</empno>
+		<firstname tend="1999-05-07" tstart="1986-03-14">Kendra</firstname>
+		<lastname tend="1999-05-07" tstart="1986-03-14">Hofting</lastname>
+		<salary tend="1999-05-07" tstart="1999-03-11">75401</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-11-18">10091</empno>
+		<firstname tend="9999-12-31" tstart="1992-11-18">Amabile</firstname>
+		<lastname tend="9999-12-31" tstart="1992-11-18">Gomatam</lastname>
+		<salary tend="9999-12-31" tstart="2001-11-16">60014</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-04-22">10092</empno>
+		<firstname tend="9999-12-31" tstart="1996-04-22">Valdiodio</firstname>
+		<lastname tend="9999-12-31" tstart="1996-04-22">Niizuma</lastname>
+		<salary tend="9999-12-31" tstart="2002-04-21">66803</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-01-12">10103</empno>
+		<firstname tend="9999-12-31" tstart="1998-01-12">Akemi</firstname>
+		<lastname tend="9999-12-31" tstart="1998-01-12">Birch</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-11">80061</salary>
+	</employee>
+	<employee>
+		<empno tend="1998-11-01" tstart="1994-02-27">10116</empno>
+		<firstname tend="1998-11-01" tstart="1994-02-27">Dayanand</firstname>
+		<lastname tend="1998-11-01" tstart="1994-02-27">Czap</lastname>
+		<salary tend="1998-02-26" tstart="1997-02-26">48596</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-02-02">10118</empno>
+		<firstname tend="9999-12-31" tstart="1992-02-02">Zhonghui</firstname>
+		<lastname tend="9999-12-31" tstart="1992-02-02">Zyda</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-30">55284</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1989-05-03">10121</empno>
+		<firstname tend="9999-12-31" tstart="1989-05-03">Guoxiang</firstname>
+		<lastname tend="9999-12-31" tstart="1989-05-03">Ramsay</lastname>
+		<salary tend="9999-12-31" tstart="2002-04-30">66834</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-08-06">10122</empno>
+		<firstname tend="9999-12-31" tstart="1998-08-06">Ohad</firstname>
+		<lastname tend="9999-12-31" tstart="1998-08-06">Esposito</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-05">48464</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-05-17">10127</empno>
+		<firstname tend="9999-12-31" tstart="1991-05-17">Subir</firstname>
+		<lastname tend="9999-12-31" tstart="1991-05-17">Baja</lastname>
+		<salary tend="2002-05-14" tstart="2001-05-14">63137</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-01-16">10129</empno>
+		<firstname tend="9999-12-31" tstart="1996-01-16">Armond</firstname>
+		<lastname tend="9999-12-31" tstart="1996-01-16">Peir</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-14">56667</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1987-12-12">10134</empno>
+		<firstname tend="9999-12-31" tstart="1987-12-12">Diederik</firstname>
+		<lastname tend="9999-12-31" tstart="1987-12-12">Siprelle</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-08">69194</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-03-15">10139</empno>
+		<firstname tend="9999-12-31" tstart="1998-03-15">Ewing</firstname>
+		<lastname tend="9999-12-31" tstart="1998-03-15">Foong</lastname>
+		<salary tend="9999-12-31" tstart="2002-03-14">50398</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-10-28">10142</empno>
+		<firstname tend="9999-12-31" tstart="1993-10-28">Tzvetan</firstname>
+		<lastname tend="9999-12-31" tstart="1993-10-28">Hettesheimer</lastname>
+		<salary tend="2001-10-26" tstart="2000-10-26">58003</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1988-09-30">10143</empno>
+		<firstname tend="9999-12-31" tstart="1988-09-30">Sakthirel</firstname>
+		<lastname tend="9999-12-31" tstart="1988-09-30">Bakhtari</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-27">70351</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1999-11-03">10145</empno>
+		<firstname tend="9999-12-31" tstart="1999-11-03">Akemi</firstname>
+		<lastname tend="9999-12-31" tstart="1999-11-03">Esposito</lastname>
+		<salary tend="2001-11-02" tstart="2000-11-02">47662</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1986-11-16">10150</empno>
+		<firstname tend="9999-12-31" tstart="1986-11-16">Zhenbing</firstname>
+		<lastname tend="9999-12-31" tstart="1986-11-16">Perng</lastname>
+		<salary tend="9999-12-31" tstart="2001-11-12">100182</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="2000-01-08">10153</empno>
+		<firstname tend="9999-12-31" tstart="2000-01-08">Heekeun</firstname>
+		<lastname tend="9999-12-31" tstart="2000-01-08">Majewski</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-07">61594</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-12-10">10157</empno>
+		<firstname tend="9999-12-31" tstart="1997-12-10">Nigel</firstname>
+		<lastname tend="9999-12-31" tstart="1997-12-10">Aloisi</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-09">56615</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-09-02">10166</empno>
+		<firstname tend="9999-12-31" tstart="1996-09-02">Samphel</firstname>
+		<lastname tend="9999-12-31" tstart="1996-09-02">Siegrist</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-01">65632</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-06-28">10169</empno>
+		<firstname tend="9999-12-31" tstart="1998-06-28">Sampalli</firstname>
+		<lastname tend="9999-12-31" tstart="1998-06-28">Snedden</lastname>
+		<salary tend="9999-12-31" tstart="2002-06-27">78611</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-02-04">10172</empno>
+		<firstname tend="9999-12-31" tstart="1998-02-04">Shigeu</firstname>
+		<lastname tend="9999-12-31" tstart="1998-02-04">Matzen</lastname>
+		<salary tend="9999-12-31" tstart="2002-02-03">42646</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="2000-01-25">10179</empno>
+		<firstname tend="9999-12-31" tstart="2000-01-25">Deniz</firstname>
+		<lastname tend="9999-12-31" tstart="2000-01-25">Duclos</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-24">43325</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1988-06-22">10181</empno>
+		<firstname tend="9999-12-31" tstart="1988-06-22">Sibyl</firstname>
+		<lastname tend="9999-12-31" tstart="1988-06-22">Nooteboom</lastname>
+		<salary tend="9999-12-31" tstart="2002-06-19">78684</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1990-09-02">10182</empno>
+		<firstname tend="9999-12-31" tstart="1990-09-02">Moriyoshi</firstname>
+		<lastname tend="9999-12-31" tstart="1990-09-02">Merey</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-30">67049</salary>
+	</employee>
+	<employee>
+		<empno tend="1993-06-29" tstart="1992-09-13">10189</empno>
+		<firstname tend="1993-06-29" tstart="1992-09-13">Khalid</firstname>
+		<lastname tend="1993-06-29" tstart="1992-09-13">Erva</lastname>
+		<salary tend="1993-06-29" tstart="1992-09-13">41222</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1986-04-10">10191</empno>
+		<firstname tend="9999-12-31" tstart="1986-04-10">Zdislav</firstname>
+		<lastname tend="9999-12-31" tstart="1986-04-10">Nastansky</lastname>
+		<salary tend="9999-12-31" tstart="2002-04-05">59946</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-09-21">10193</empno>
+		<firstname tend="9999-12-31" tstart="1996-09-21">Masaru</firstname>
+		<lastname tend="9999-12-31" tstart="1996-09-21">Cheshire</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-20">57200</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1994-06-28">10197</empno>
+		<firstname tend="9999-12-31" tstart="1994-06-28">Kasidit</firstname>
+		<lastname tend="9999-12-31" tstart="1994-06-28">Krzyzanowski</lastname>
+		<salary tend="9999-12-31" tstart="2002-06-26">61807</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1985-08-31">10198</empno>
+		<firstname tend="9999-12-31" tstart="1985-08-31">Pranav</firstname>
+		<lastname tend="9999-12-31" tstart="1985-08-31">Furedi</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-27">69268</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-11-10">10201</empno>
+		<firstname tend="9999-12-31" tstart="1992-11-10">Idoia</firstname>
+		<lastname tend="9999-12-31" tstart="1992-11-10">Kavraki</lastname>
+		<salary tend="9999-12-31" tstart="2001-11-08">57425</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-10-06">10202</empno>
+		<firstname tend="9999-12-31" tstart="1991-10-06">Greger</firstname>
+		<lastname tend="9999-12-31" tstart="1991-10-06">Lichtner</lastname>
+		<salary tend="9999-12-31" tstart="2001-10-03">69727</salary>
+	</employee>
+	<employee>
+		<empno tend="1999-03-08" tstart="1998-12-18">10204</empno>
+		<firstname tend="1999-03-08" tstart="1998-12-18">Nevio</firstname>
+		<lastname tend="1999-03-08" tstart="1998-12-18">Ritcey</lastname>
+		<salary tend="1999-03-08" tstart="1998-12-18">40000</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1988-04-19">10206</empno>
+		<firstname tend="9999-12-31" tstart="1988-04-19">Alassane</firstname>
+		<lastname tend="9999-12-31" tstart="1988-04-19">Iwayama</lastname>
+		<salary tend="9999-12-31" tstart="2002-04-16">71052</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-10-11">10207</empno>
+		<firstname tend="9999-12-31" tstart="1992-10-11">Girolamo</firstname>
+		<lastname tend="9999-12-31" tstart="1992-10-11">Anandan</lastname>
+		<salary tend="9999-12-31" tstart="2001-10-09">69959</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-11-22">10211</empno>
+		<firstname tend="9999-12-31" tstart="1991-11-22">Vishu</firstname>
+		<lastname tend="9999-12-31" tstart="1991-11-22">Strehl</lastname>
+		<salary tend="9999-12-31" tstart="2001-11-19">64400</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-01-28">10212</empno>
+		<firstname tend="9999-12-31" tstart="1996-01-28">Divier</firstname>
+		<lastname tend="9999-12-31" tstart="1996-01-28">Esteva</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-26">78952</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-03-31">10219</empno>
+		<firstname tend="9999-12-31" tstart="1993-03-31">Genta</firstname>
+		<lastname tend="9999-12-31" tstart="1993-03-31">Kolvik</lastname>
+		<salary tend="9999-12-31" tstart="2002-03-29">61354</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-04-01">10223</empno>
+		<firstname tend="9999-12-31" tstart="1998-04-01">Carrsten</firstname>
+		<lastname tend="9999-12-31" tstart="1998-04-01">Schmiedel</lastname>
+		<salary tend="9999-12-31" tstart="2002-03-31">75358</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1994-11-01">10227</empno>
+		<firstname tend="9999-12-31" tstart="1994-11-01">Anneli</firstname>
+		<lastname tend="9999-12-31" tstart="1994-11-01">Kaiser</lastname>
+		<salary tend="9999-12-31" tstart="2001-10-30">74739</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1995-03-31">10238</empno>
+		<firstname tend="9999-12-31" tstart="1995-03-31">Mototsugu</firstname>
+		<lastname tend="9999-12-31" tstart="1995-03-31">Gire</lastname>
+		<salary tend="9999-12-31" tstart="2002-03-29">67630</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1999-09-16">10244</empno>
+		<firstname tend="9999-12-31" tstart="1999-09-16">Foong</firstname>
+		<lastname tend="9999-12-31" tstart="1999-09-16">Flasterstein</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-15">63041</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-12-08">10249</empno>
+		<firstname tend="9999-12-31" tstart="1991-12-08">Marie</firstname>
+		<lastname tend="9999-12-31" tstart="1991-12-08">Boreale</lastname>
+		<salary tend="2001-12-05" tstart="2000-12-05">85860</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1985-05-17">10258</empno>
+		<firstname tend="9999-12-31" tstart="1985-05-17">Basil</firstname>
+		<lastname tend="9999-12-31" tstart="1985-05-17">Ishibashi</lastname>
+		<salary tend="9999-12-31" tstart="2002-05-13">110212</salary>
+	</employee>
+	<employee>
+		<empno tend="1999-02-23" tstart="1996-09-11">10261</empno>
+		<firstname tend="1999-02-23" tstart="1996-09-11">Mang</firstname>
+		<lastname tend="1999-02-23" tstart="1996-09-11">Erie</lastname>
+		<salary tend="1999-02-23" tstart="1998-09-11">46020</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-07-16">10264</empno>
+		<firstname tend="9999-12-31" tstart="1997-07-16">Nalini</firstname>
+		<lastname tend="9999-12-31" tstart="1997-07-16">Kawashimo</lastname>
+		<salary tend="2002-07-15" tstart="2001-07-15">66229</salary>
+	</employee>
+	<employee>
+		<empno tend="1990-08-17" tstart="1986-12-17">10268</empno>
+		<firstname tend="1990-08-17" tstart="1986-12-17">Nishit</firstname>
+		<lastname tend="1990-08-17" tstart="1986-12-17">Siochi</lastname>
+		<salary tend="1990-08-17" tstart="1989-12-16">49389</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1986-05-23">10271</empno>
+		<firstname tend="9999-12-31" tstart="1986-05-23">Sham</firstname>
+		<lastname tend="9999-12-31" tstart="1986-05-23">Eastman</lastname>
+		<salary tend="9999-12-31" tstart="2002-05-19">91010</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-02-02">10274</empno>
+		<firstname tend="9999-12-31" tstart="1997-02-02">Dmitri</firstname>
+		<lastname tend="9999-12-31" tstart="1997-02-02">Pearson</lastname>
+		<salary tend="9999-12-31" tstart="2002-02-01">97449</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1987-09-08">10275</empno>
+		<firstname tend="9999-12-31" tstart="1987-09-08">Marek</firstname>
+		<lastname tend="9999-12-31" tstart="1987-09-08">Luck</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-04">68583</salary>
+	</employee>
+	<employee>
+		<empno tend="2000-02-04" tstart="1986-10-19">10276</empno>
+		<firstname tend="2000-02-04" tstart="1986-10-19">Xuejun</firstname>
+		<lastname tend="2000-02-04" tstart="1986-10-19">Hempstead</lastname>
+		<salary tend="2000-02-04" tstart="1999-10-16">57633</salary>
+	</employee>
+	<employee>
+		<empno tend="1997-02-14" tstart="1993-07-02">10278</empno>
+		<firstname tend="1997-02-14" tstart="1993-07-02">Lubomir</firstname>
+		<lastname tend="1997-02-14" tstart="1993-07-02">Nitsch</lastname>
+		<salary tend="1997-02-14" tstart="1996-07-01">61720</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1988-05-25">10283</empno>
+		<firstname tend="9999-12-31" tstart="1988-05-25">Kauko</firstname>
+		<lastname tend="9999-12-31" tstart="1988-05-25">Birjandi</lastname>
+		<salary tend="2002-05-22" tstart="2001-05-22">62118</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-12-28">10287</empno>
+		<firstname tend="9999-12-31" tstart="1992-12-28">Marie</firstname>
+		<lastname tend="9999-12-31" tstart="1992-12-28">Pietracaprina</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-26">79615</salary>
+	</employee>
+	<employee>
+		<empno tend="2002-01-31" tstart="1993-03-12">10289</empno>
+		<firstname tend="2002-01-31" tstart="1993-03-12">Shay</firstname>
+		<lastname tend="2002-01-31" tstart="1993-03-12">Poulakidas</lastname>
+		<salary tend="2002-01-31" tstart="2001-03-10">49707</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-09-18">10290</empno>
+		<firstname tend="9999-12-31" tstart="1991-09-18">Yongmao</firstname>
+		<lastname tend="9999-12-31" tstart="1991-09-18">Pleszkun</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-15">62455</salary>
+	</employee>
+	<employee>
+		<empno tend="1999-05-04" tstart="1999-01-30">10294</empno>
+		<firstname tend="1999-05-04" tstart="1999-01-30">Rutger</firstname>
+		<lastname tend="1999-05-04" tstart="1999-01-30">Miara</lastname>
+		<salary tend="1999-05-04" tstart="1999-01-30">66448</salary>
+	</employee>
+	<employee>
+		<empno tend="1992-06-02" tstart="1988-10-31">10305</empno>
+		<firstname tend="1992-06-02" tstart="1988-10-31">Hirochika</firstname>
+		<lastname tend="1992-06-02" tstart="1988-10-31">Piancastelli</lastname>
+		<salary tend="1992-06-02" tstart="1991-10-31">60954</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-05-02">10309</empno>
+		<firstname tend="9999-12-31" tstart="1997-05-02">Prodip</firstname>
+		<lastname tend="9999-12-31" tstart="1997-05-02">Schusler</lastname>
+		<salary tend="9999-12-31" tstart="2002-05-01">63757</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-11-04">10311</empno>
+		<firstname tend="9999-12-31" tstart="1998-11-04">Hsiangchu</firstname>
+		<lastname tend="9999-12-31" tstart="1998-11-04">Molenkamp</lastname>
+		<salary tend="9999-12-31" tstart="2001-11-03">48285</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1987-08-28">10315</empno>
+		<firstname tend="9999-12-31" tstart="1987-08-28">Maris</firstname>
+		<lastname tend="9999-12-31" tstart="1987-08-28">Angelopoulos</lastname>
+		<salary tend="2001-08-24" tstart="2000-08-24">87649</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1987-03-23">10318</empno>
+		<firstname tend="9999-12-31" tstart="1987-03-23">Mototsugu</firstname>
+		<lastname tend="9999-12-31" tstart="1987-03-23">Beilner</lastname>
+		<salary tend="9999-12-31" tstart="2002-03-19">99371</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1990-01-29">10322</empno>
+		<firstname tend="9999-12-31" tstart="1990-01-29">Isamu</firstname>
+		<lastname tend="9999-12-31" tstart="1990-01-29">Dahlbom</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-26">72886</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1999-07-19">10324</empno>
+		<firstname tend="9999-12-31" tstart="1999-07-19">Bernardo</firstname>
+		<lastname tend="9999-12-31" tstart="1999-07-19">Rouquie</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-18">76568</salary>
+	</employee>
+	<employee>
+		<empno tend="1993-05-22" tstart="1987-09-18">10327</empno>
+		<firstname tend="1993-05-22" tstart="1987-09-18">Roded</firstname>
+		<lastname tend="1993-05-22" tstart="1987-09-18">Facello</lastname>
+		<salary tend="1991-09-17" tstart="1990-09-17">60389</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-07-17">10328</empno>
+		<firstname tend="9999-12-31" tstart="1998-07-17">Serenella</firstname>
+		<lastname tend="9999-12-31" tstart="1998-07-17">Kawashima</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-16">51715</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-01-16">10333</empno>
+		<firstname tend="9999-12-31" tstart="1993-01-16">Snehasis</firstname>
+		<lastname tend="9999-12-31" tstart="1993-01-16">Dymetman</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-14">65713</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1987-07-25">10342</empno>
+		<firstname tend="9999-12-31" tstart="1987-07-25">Stella</firstname>
+		<lastname tend="9999-12-31" tstart="1987-07-25">Hiroyama</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-21">74705</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-11-08">10345</empno>
+		<firstname tend="9999-12-31" tstart="1993-11-08">Arra</firstname>
+		<lastname tend="9999-12-31" tstart="1993-11-08">Ratnakar</lastname>
+		<salary tend="9999-12-31" tstart="2001-11-06">87195</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-12-16">10352</empno>
+		<firstname tend="9999-12-31" tstart="1998-12-16">Erzsebet</firstname>
+		<lastname tend="9999-12-31" tstart="1998-12-16">Ohori</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-15">44683</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1991-02-19">10358</empno>
+		<firstname tend="9999-12-31" tstart="1991-02-19">Qunsheng</firstname>
+		<lastname tend="9999-12-31" tstart="1991-02-19">Tagansky</lastname>
+		<salary tend="9999-12-31" tstart="2002-02-16">90950</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1998-07-20">10359</empno>
+		<firstname tend="9999-12-31" tstart="1998-07-20">Heekeun</firstname>
+		<lastname tend="9999-12-31" tstart="1998-07-20">Sambasivam</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-19">47188</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-08-15">10366</empno>
+		<firstname tend="9999-12-31" tstart="1997-08-15">Morrie</firstname>
+		<lastname tend="9999-12-31" tstart="1997-08-15">Piazza</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-14">60214</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-04-26">10373</empno>
+		<firstname tend="9999-12-31" tstart="1997-04-26">Hongzue</firstname>
+		<lastname tend="9999-12-31" tstart="1997-04-26">Heijenga</lastname>
+		<salary tend="9999-12-31" tstart="2002-04-25">58845</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-07-15">10379</empno>
+		<firstname tend="9999-12-31" tstart="1996-07-15">Mikhail</firstname>
+		<lastname tend="9999-12-31" tstart="1996-07-15">Rosis</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-14">46932</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1985-08-02">10386</empno>
+		<firstname tend="9999-12-31" tstart="1985-08-02">Eishiro</firstname>
+		<lastname tend="9999-12-31" tstart="1985-08-02">Miyakawa</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-29">88725</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1999-05-13">10389</empno>
+		<firstname tend="9999-12-31" tstart="1999-05-13">Make</firstname>
+		<lastname tend="9999-12-31" tstart="1999-05-13">Peir</lastname>
+		<salary tend="2002-05-12" tstart="2001-05-12">60580</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-01-28">10391</empno>
+		<firstname tend="9999-12-31" tstart="1993-01-28">Hongzue</firstname>
+		<lastname tend="9999-12-31" tstart="1993-01-28">Akaboshi</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-26">76997</salary>
+	</employee>
+	<employee>
+		<empno tend="1991-08-25" tstart="1991-03-14">10394</empno>
+		<firstname tend="1991-08-25" tstart="1991-03-14">Shawna</firstname>
+		<lastname tend="1991-08-25" tstart="1991-03-14">Meriste</lastname>
+		<salary tend="1991-08-25" tstart="1991-03-14">40000</salary>
+	</employee>
+	<employee>
+		<empno tend="2001-08-13" tstart="1998-08-10">10395</empno>
+		<firstname tend="2001-08-13" tstart="1998-08-10">Takahiro</firstname>
+		<lastname tend="2001-08-13" tstart="1998-08-10">Deverell</lastname>
+		<salary tend="2001-08-09" tstart="2000-08-09">47130</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1986-01-11">10396</empno>
+		<firstname tend="9999-12-31" tstart="1986-01-11">Sibyl</firstname>
+		<lastname tend="9999-12-31" tstart="1986-01-11">Rahier</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-07">74120</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1988-08-28">10404</empno>
+		<firstname tend="9999-12-31" tstart="1988-08-28">Prodip</firstname>
+		<lastname tend="9999-12-31" tstart="1988-08-28">Rosti</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-25">87187</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-09-26">10409</empno>
+		<firstname tend="9999-12-31" tstart="1997-09-26">Mario</firstname>
+		<lastname tend="9999-12-31" tstart="1997-09-26">Straney</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-25">68422</salary>
+	</employee>
+	<employee>
+		<empno tend="1994-12-02" tstart="1990-05-30">10414</empno>
+		<firstname tend="1994-12-02" tstart="1990-05-30">Yinlin</firstname>
+		<lastname tend="1994-12-02" tstart="1990-05-30">Alpin</lastname>
+		<salary tend="1994-12-02" tstart="1994-05-29">51742</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-10-25">10415</empno>
+		<firstname tend="9999-12-31" tstart="1993-10-25">Mark</firstname>
+		<lastname tend="9999-12-31" tstart="1993-10-25">Coorg</lastname>
+		<salary tend="9999-12-31" tstart="2001-10-23">68327</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1989-08-07">10424</empno>
+		<firstname tend="9999-12-31" tstart="1989-08-07">Babette</firstname>
+		<lastname tend="9999-12-31" tstart="1989-08-07">Straney</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-04">74457</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1985-07-06">10426</empno>
+		<firstname tend="9999-12-31" tstart="1985-07-06">Arunas</firstname>
+		<lastname tend="9999-12-31" tstart="1985-07-06">Luce</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-02">98636</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1988-09-23">10429</empno>
+		<firstname tend="9999-12-31" tstart="1988-09-23">Martien</firstname>
+		<lastname tend="9999-12-31" tstart="1988-09-23">Improta</lastname>
+		<salary tend="9999-12-31" tstart="2001-09-20">70554</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-06-08">10435</empno>
+		<firstname tend="9999-12-31" tstart="1996-06-08">Marsha</firstname>
+		<lastname tend="9999-12-31" tstart="1996-06-08">Tagansky</lastname>
+		<salary tend="9999-12-31" tstart="2002-06-07">54288</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1993-05-01">10439</empno>
+		<firstname tend="9999-12-31" tstart="1993-05-01">Jolita</firstname>
+		<lastname tend="9999-12-31" tstart="1993-05-01">Jarecki</lastname>
+		<salary tend="9999-12-31" tstart="2002-04-29">86481</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-04-04">10440</empno>
+		<firstname tend="9999-12-31" tstart="1997-04-04">Akeel</firstname>
+		<lastname tend="9999-12-31" tstart="1997-04-04">Narahara</lastname>
+		<salary tend="2002-04-03" tstart="2001-04-03">62726</salary>
+	</employee>
+	<employee>
+		<empno tend="2002-07-06" tstart="1989-08-01">10443</empno>
+		<firstname tend="2002-07-06" tstart="1989-08-01">Shichao</firstname>
+		<lastname tend="2002-07-06" tstart="1989-08-01">Litvinov</lastname>
+		<salary tend="2002-07-06" tstart="2001-07-29">70400</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1987-11-04">10445</empno>
+		<firstname tend="9999-12-31" tstart="1987-11-04">Junichi</firstname>
+		<lastname tend="9999-12-31" tstart="1987-11-04">Kavanagh</lastname>
+		<salary tend="9999-12-31" tstart="2001-10-31">78518</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-12-25">10446</empno>
+		<firstname tend="9999-12-31" tstart="1996-12-25">Ebru</firstname>
+		<lastname tend="9999-12-31" tstart="1996-12-25">Chepyzhov</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-24">60783</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-08-24">10450</empno>
+		<firstname tend="9999-12-31" tstart="1997-08-24">Khun</firstname>
+		<lastname tend="9999-12-31" tstart="1997-08-24">Harbusch</lastname>
+		<salary tend="9999-12-31" tstart="2001-08-23">50217</salary>
+	</employee>
+	<employee>
+		<empno tend="2001-10-11" tstart="1995-11-12">10452</empno>
+		<firstname tend="2001-10-11" tstart="1995-11-12">Werner</firstname>
+		<lastname tend="2001-10-11" tstart="1995-11-12">Hasham</lastname>
+		<salary tend="2000-11-10" tstart="1999-11-11">51142</salary>
+	</employee>
+	<employee>
+		<empno tend="2001-04-15" tstart="1999-06-30">10460</empno>
+		<firstname tend="2001-04-15" tstart="1999-06-30">Shushma</firstname>
+		<lastname tend="2001-04-15" tstart="1999-06-30">VanScheik</lastname>
+		<salary tend="2001-04-15" tstart="2000-06-29">42154</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1985-06-05">10469</empno>
+		<firstname tend="9999-12-31" tstart="1985-06-05">Munehiko</firstname>
+		<lastname tend="9999-12-31" tstart="1985-06-05">Ananiadou</lastname>
+		<salary tend="2002-06-01" tstart="2001-06-01">79698</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1997-05-26">10477</empno>
+		<firstname tend="9999-12-31" tstart="1997-05-26">Guoxiang</firstname>
+		<lastname tend="9999-12-31" tstart="1997-05-26">Trogemann</lastname>
+		<salary tend="9999-12-31" tstart="2002-05-25">68859</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1992-06-09">10478</empno>
+		<firstname tend="9999-12-31" tstart="1992-06-09">Maik</firstname>
+		<lastname tend="9999-12-31" tstart="1992-06-09">Ushiama</lastname>
+		<salary tend="9999-12-31" tstart="2002-06-07">54545</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-02-26">10482</empno>
+		<firstname tend="9999-12-31" tstart="1996-02-26">Goa</firstname>
+		<lastname tend="9999-12-31" tstart="1996-02-26">Pleszkun</lastname>
+		<salary tend="2001-02-24" tstart="2000-02-25">92152</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-01-21">10485</empno>
+		<firstname tend="9999-12-31" tstart="1996-01-21">Teruyuki</firstname>
+		<lastname tend="9999-12-31" tstart="1996-01-21">Sundgren</lastname>
+		<salary tend="9999-12-31" tstart="2002-01-19">64129</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1994-07-09">10488</empno>
+		<firstname tend="9999-12-31" tstart="1994-07-09">Mihalis</firstname>
+		<lastname tend="9999-12-31" tstart="1994-07-09">Heering</lastname>
+		<salary tend="9999-12-31" tstart="2002-07-07">58297</salary>
+	</employee>
+	<employee>
+		<empno tend="1989-10-06" tstart="1989-09-10">10489</empno>
+		<firstname tend="1989-10-06" tstart="1989-09-10">Elvia</firstname>
+		<lastname tend="1989-10-06" tstart="1989-09-10">Homond</lastname>
+		<salary tend="1989-10-06" tstart="1989-09-10">56739</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1988-04-29">10492</empno>
+		<firstname tend="9999-12-31" tstart="1988-04-29">Lobel</firstname>
+		<lastname tend="9999-12-31" tstart="1988-04-29">Kumaresan</lastname>
+		<salary tend="9999-12-31" tstart="2002-04-26">88092</salary>
+	</employee>
+	<employee>
+		<empno tend="9999-12-31" tstart="1996-12-16">10500</empno>
+		<firstname tend="9999-12-31" tstart="1996-12-16">Vojin</firstname>
+		<lastname tend="9999-12-31" tstart="1996-12-16">Narwekar</lastname>
+		<salary tend="9999-12-31" tstart="2001-12-15">54628</salary>
+	</employee>
+</maxSal>

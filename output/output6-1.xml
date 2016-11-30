@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emDepCount>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d001</deptno>
+	<count>18</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d002</deptno>
+	<count>31</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d003</deptno>
+	<count>28</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d004</deptno>
+	<count>125</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d005</deptno>
+	<count>134</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d006</deptno>
+	<count>39</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d007</deptno>
+	<count>94</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d008</deptno>
+	<count>44</count>
+	<deptno tend="9999-12-31" tstart="1985-01-01">d009</deptno>
+	<count>39</count>
+</emDepCount>
